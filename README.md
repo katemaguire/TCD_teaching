@@ -1,3 +1,3 @@
 # TCD_teaching
 
-Here you can find example notebooks for PYU33A03.
+Here you can find an example .ipynb notebook for PYU33A03.
